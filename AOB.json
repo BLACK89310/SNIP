@@ -3,5 +3,7 @@
   "ReadOffsetHex": "0xA2",
   "WriteOffsetHex": "0x9E",
   "ReadOffsetHex1": "0xD2",
-  "StartupMessage": "F1 FOR MOUSE MODE ON/OFF ENJOY IT PERMANENT"
+  "StartupMessage": "F1 FOR MOUSE MODE ON/OFF ENJOY IT PERMANENT",
+  "StartupMessage1": "F1 FOR MOUSE MODE ON/OFF ENJOY IT PERMANENT",
+  "ALAMIN": true
 }
