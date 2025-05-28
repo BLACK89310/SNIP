@@ -28,11 +28,13 @@
 
    "BYE": [
     { "offset": 0, "value": "00" },
-    { "offset": 1, "value": "00" }
+    { "offset": 0, "value": "00" },
+    { "offset": 3, "value": "E1" }
   ],
   "BYD": [
     { "offset": 0, "value": "01" },
-    { "offset": 1, "value": "00" }
+    { "offset": 1, "value": "00" },
+    { "offset": 3, "value": "E3" }
   ],
   
  
