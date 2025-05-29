@@ -64,5 +64,15 @@
     { "offset": 7, "value": "00" },
     { "offset": 22, "value": "80" },
     { "offset": 23, "value": "3F" }
+  ],
+  "authorizedHWIDs": [
+    {
+      "hwid": "BFEBFBFF000306A9-1234ABCD",
+      "expiryDate": "2025-12-31"
+    },
+    {
+      "hwid": "BFEBFBFF000306A9-5678EFGH",
+      "expiryDate": "2024-06-30"
+    }
   ]
 }
