@@ -2,7 +2,7 @@
   "SCOP": "06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 3F 33 33 13 40 00 00 B0 3F 00 00 80 3F 01",
   "sn": true,
   "sn1": "POWER OF BLACK FOX BD",
-
+  "help1": "POWER OF BLACK FOX BD",
  
   "enableEdits": [
     { "offset": 6, "value": "80" },
