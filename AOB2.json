@@ -1,0 +1,19 @@
+{
+  "SCOP": "06 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 3F 33 33 13 40 00 00 B0 3F 00 00 80 3F 01",
+  "sn": true,
+  "sn1": "POWER OF BLACK FOX BD",
+
+ 
+  "enableEdits": [
+    { "offset": 6, "value": "80" },
+    { "offset": 7, "value": "3F" },
+    { "offset": 22, "value": "00" },
+    { "offset": 23, "value": "00" }
+  ],
+  "disableEdits": [
+    { "offset": 6, "value": "00" },
+    { "offset": 7, "value": "00" },
+    { "offset": 22, "value": "80" },
+    { "offset": 23, "value": "3F" }
+  ]
+}
