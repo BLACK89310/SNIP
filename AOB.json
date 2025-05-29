@@ -68,7 +68,7 @@
    "authorizedHWIDs": [
     {
       "hwid": "F0960000-0000-1000-8000-000000000000",
-      "expiryDate": "2099-12-31"
+      "expiryDate": "2099-12-21"
     },
     {
       "hwid": "12345678-90AB-CDEF-1234-567890ABCDEF",
