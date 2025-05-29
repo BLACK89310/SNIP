@@ -38,7 +38,7 @@
  
    "BYE": [
     { "offset": 0, "value": "00" },
-    { "offset": 0, "value": "00" },
+    { "offset": 1, "value": "00" },
     { "offset": 3, "value": "E1" },
      { "offset": 827, "value": "05" }
   ],
