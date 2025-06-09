@@ -73,7 +73,7 @@
       "expiryDate": "2099-12-21"
     },
     {
-      "hwid": "12345678-90AB-CDEF-1234-567890ABCDEF",
+      "hwid": "FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF",
       "expiryDate": "2025-12-31"
     }
   ]
