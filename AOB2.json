@@ -3,7 +3,7 @@
   "sn": true,
   "sn1": "POWER OF BLACK FOX BD",
   "help1": "POWER OF BLACK FOX BD !!",
-  "scopdelay": 3000,
+  "scopdelay": 75,
   "enableEdits": [
     { "offset": 6, "value": "80" },
     { "offset": 7, "value": "3F" },
