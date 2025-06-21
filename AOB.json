@@ -16,7 +16,7 @@
   "help": "WHATSAPP NUMBER 01595075777",
   "ALAMIN": true,
   "help1": "BLACK FOX BD / BLACK CHEAT",
-  
+   "scopdelay": 75,
    "enableEdits1": [
     { "offset": 0, "value": "3C" },
     { "offset": 4, "value": "??" }
