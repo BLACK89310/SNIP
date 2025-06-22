@@ -17,6 +17,8 @@
   "ALAMIN": true,
   "help1": "BLACK FOX BD / BLACK CHEAT",
    "scopdelay": 75,
+  "TapX": 100,
+  "TapY": 100,
    "enableEdits1": [
     { "offset": 0, "value": "3C" },
     { "offset": 4, "value": "??" }
