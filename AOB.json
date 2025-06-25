@@ -73,10 +73,6 @@
     {
       "hwid": "F0960000-0000-1000-8000-000000000000",
       "expiryDate": "2099-12-21"
-    },
-    {
-      "hwid": "FFFFFFFF-FFFF-FFFF-FFFF-FFFFFFFFFFFF",
-      "expiryDate": "2025-12-31"
     }
   ]
 }
