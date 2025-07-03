@@ -11,8 +11,8 @@
     }
   ],
   "bannedHWIDs": [
-    "BANNED-HWID-1",
-    "BANNED-HWID-2"
+    "BANNED-HWID-1"
+   
   ],
   "updateURL": ""
 }
