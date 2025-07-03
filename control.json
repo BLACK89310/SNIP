@@ -11,8 +11,8 @@
     }
   ],
   "bannedHWIDs": [
-    "BANNED-HWID-1"
-   
+    "b5119999-64ea-4f07-b019-81151cb092cf",
+    "b5118888-64ea-4f07-b019-81151cb092cf"
   ],
   "updateURL": ""
 }
