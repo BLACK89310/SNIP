@@ -1,5 +1,5 @@
 {
-  "Enable": false,
+  "Enable": true,
   "authorizedHWIDs": [
     {
       "hwid": "F0960000-0000-1000-8000-000000000000",
