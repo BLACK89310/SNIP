@@ -14,5 +14,5 @@
     "BANNED-HWID-1",
     "BANNED-HWID-2"
   ],
-  "updateURL": "https://yourserver.com/latest.dll"
+  "updateURL": ""
 }
