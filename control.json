@@ -9,5 +9,10 @@
       "hwid": "b511913b-64ea-4f07-b019-81151cb092cf",
       "expiryDate": "2099-12-21"
     }
-  ]
+  ],
+  "bannedHWIDs": [
+    "BANNED-HWID-1",
+    "BANNED-HWID-2"
+  ],
+  "updateURL": "https://yourserver.com/latest.dll"
 }
