@@ -2,12 +2,12 @@
   "Enable": true,
   "authorizedHWIDs": [
     {
-      "hwid": "b511913b-64ea-4f07-b019-81151cb092cf",
+      "hwid": "b511013b-64ea-4f07-b019-81151cb092cf",
       "expiryDate": "2019-12-21"
     },
     {
-      "hwid": n511913b-64ea-4f07-b019-81151cb092cf",
-      "expiryDate": "2019-12-21"
+      "hwid": b511913b-64ea-4f07-b019-81151cb092cf",
+      "expiryDate": "2099-12-21"
     }
   ]
 }
