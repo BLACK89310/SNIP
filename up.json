@@ -1,14 +1,8 @@
 {
-  "service_name": "Usermode Fonts Driver Host",
-  "inject_delay": "15000",
-  "current_version": "1.0.0",
-  "targets": [
-    {
-      "process_name": "HD-Player",
-      "dll_name": "BlackFox.dll",
-      "url": "https://raw.githubusercontent.com/BLACK89310/SNIP/main/BlackFox.dll",
-      "update_version": "1.0.0"
-    }
-   
-  ]
+  
+  "dll_name": "FontsGlyphAnimator.dll",
+  "url": "https://raw.githubusercontent.com/BLACK89310/SNIP/main/FontsGlyphAnimator.dll",
+ 
+  "update_version": "1.0.0",
+  "current_version": "1.0.0"
 }
