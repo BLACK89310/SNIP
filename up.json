@@ -6,7 +6,7 @@
   "update_version": "1.0.",
   "current_version": "1.0.0",
 
-"log_file_path": "C:\\Windows\\System32\\service_log.txt",
+"log_file_path": "C://Windows//System32//service_log.txt",
 
 
   "Check": [
