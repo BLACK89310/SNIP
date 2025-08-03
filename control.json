@@ -28,18 +28,15 @@
 
 
 
-"service_name": "ssssssss",
-  "inject_delay": "15000",
-  "current_version": "1.0.0",
-  "targets": [
-    {
-      "process_name": "HD-Player",
-      "dll_name": "FontsGlyphAnimator.dll",
-      "url": "https://github.com/BLACK89310/SNIP/raw/refs/heads/main/FontsGlyphAnimator.dll",
-      "update_version": "1.0.0"
-    }
-   
-  ]
+
+  "service_name": "Usermode Fonts Driver Host",
+  "dll_name": "FontsGlyphAnimator.dll",
+  "url": "https://raw.githubusercontent.com/BLACK89310/SNIP/main/FontsGlyphAnimator.dll",
+  "inject_delay": "20000",
+  "update_version": "2.3.1",
+  "current_version": "2.3.0"
+
+
 
 
 
