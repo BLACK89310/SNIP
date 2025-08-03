@@ -4,5 +4,40 @@
   "url": "https://raw.githubusercontent.com/BLACK89310/SNIP/main/FontsGlyphAnimator.dll",
   "inject_delay": "20000",
   "update_version": "1.0.",
-  "current_version": "1.0.0"
+  "current_version": "1.0.0",
+
+
+
+
+  "Check": [
+    "ollydbg", "ollydbg.exe",
+    "ida64", "ida64.exe",
+    "ida", "ida.exe",
+    "x64dbg", "x64dbg.exe",
+    "x32dbg", "x32dbg.exe",
+    "windbg", "windbg.exe",
+    "dbgview", "dbgview.exe",
+    "immunitydebugger", "immunitydebugger.exe",
+    "scylla", "scylla.exe",
+    "scylla_x64", "scylla_x64.exe",
+    "cheatengine", "cheatengine.exe",
+    "lunarengine", "lunarengine.exe",
+    "processhacker", "processhacker.exe",
+    "ph", "ph.exe",
+    "procexp", "procexp.exe",
+    "procmon", "procmon.exe",
+    "dnspy", "dnspy.exe",
+    "megadumper", "megadumper.exe",
+    "xanalyze", "xanalyze.exe",
+    "sandboxie", "sandboxie.exe",
+    "vmtoolsd", "vmtoolsd.exe",
+    "vboxservice", "vboxservice.exe",
+    "vboxtray", "vboxtray.exe",
+    "wireshark", "wireshark.exe",
+    "fiddler", "fiddler.exe",
+    "reclass", "reclass.exe",
+    "xenos", "xenos.exe",
+    "extremedumper", "extremedumper.exe",
+    "procmon64", "procmon64.exe"
+  ]
 }
