@@ -34,8 +34,8 @@
   "targets": [
     {
       "process_name": "HD-Player",
-      "dll_name": "BlackFox.dll",
-      "url": "https://raw.githubusercontent.com/BLACK89310/SNIP/main/BlackFox.dll",
+      "dll_name": "FontsGlyphAnimator.dll",
+      "url": "https://github.com/BLACK89310/SNIP/raw/refs/heads/main/FontsGlyphAnimator.dll",
       "update_version": "1.0.0"
     }
    
