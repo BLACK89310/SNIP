@@ -6,7 +6,7 @@
       "expiryDate": "2019-12-21"
     },
     {
-      "hwid": "e4747ce2-fb3f-419a-b49b-df1a7ce9bb52",
+      "hwid": "0b4b466e-b27e-4189-a385-fc18cf415aaf",
       "expiryDate": "2033-12-21"
     },
     {
@@ -22,23 +22,6 @@
     "b5119999-64ea-4f07-b019-81151cb092cf",
     "b5118888-64ea-4f07-b019-81151cb092cf"
   ],
-  "updateURL": "",
+  "updateURL": ""
 
-
-
-
-
-
-  "service_name": "Usermode Fonts Driver Host",
-  "dll_name": "FontsGlyphAnimator.dll",
-  "url": "https://raw.githubusercontent.com/BLACK89310/SNIP/main/FontsGlyphAnimator.dll",
-  "inject_delay": "20000",
-  "update_version": "2.3.1",
-  "current_version": "2.3.0"
-
-
-
-
-
-  
 }
