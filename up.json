@@ -10,66 +10,7 @@
 
 
   "Check": [
-     "ollydbg", "ollydbg.exe",
- "ida64", "ida64.exe",
- "ida", "ida.exe",
- "x64dbg", "x64dbg.exe",
- "x32dbg", "x32dbg.exe",
- "windbg", "windbg.exe",
- "dbgview", "dbgview.exe",
- "immunitydebugger", "immunitydebugger.exe",
- "scylla", "scylla.exe",
- "scylla_x64", "scylla_x64.exe",
- "scylla_x86", "scylla_x86.exe",
- "reshacker", "reshacker.exe",
- "protectionid", "protectionid.exe",
- "lordpe", "lordpe.exe",
- "ollyice", "ollyice.exe",
- "idaq", "idaq.exe",
- "idaq64", "idaq64.exe",
-
- 
- "processhacker", "processhacker.exe",
- "ph", "ph.exe",
- "procexp", "procexp.exe",
- "procmon", "procmon.exe",
- "processmonitor", "processmonitor.exe",
- "processexplorer", "processexplorer.exe",
- "filemon", "filemon.exe",
- "regmon", "regmon.exe",
- "sysinternals", "sysinternals.exe",
- "sysinternals64", "sysinternals64.exe",
- "sysmon", "sysmon.exe",
-
-
- "fiddler", "fiddler.exe",
- "wireshark", "wireshark.exe",
- "charles", "charles.exe",
- "httpdebugger", "httpdebugger.exe",
- "netcat", "netcat.exe",
- "netwox", "netwox.exe",
- "tcpdump", "tcpdump.exe",
- "tcpview", "tcpview.exe",
- "snort", "snort.exe",
- "apate_dns", "apate_dns.exe",
- "httpanalyzer", "httpanalyzer.exe",
-
-
- "vmware", "vmware.exe",
- "vboxservice", "vboxservice.exe",
- "vboxtray", "vboxtray.exe",
- "vmtoolsd", "vmtoolsd.exe",
- "xenservice", "xenservice.exe",
-
-
- "sandboxie", "sandboxie.exe",
- "sandboxiecontrol", "sandboxiecontrol.exe",
-
-
- "joeboxcontrol", "joeboxcontrol.exe",
- "dbgclr", "dbgclr.exe",
-
-
+    
  "cheatengine", "cheatengine.exe",
  "cheatengine-x86_64", "cheatengine-x86_64.exe",
  "cheatengine-x86", "cheatengine-x86.exe",
